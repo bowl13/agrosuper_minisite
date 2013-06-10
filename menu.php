@@ -12,7 +12,7 @@
 
         </div>
 
-        <ul class="nav inline pull-right">
+        <ul class="nav inline pull-right hidden-phone">
 
             <li><a href="#">quines somos</a></li>
             <li><a href="qsomos.php">de dónde venimos</a></li>

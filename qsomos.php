@@ -6,7 +6,7 @@
     	
     	<div class="contaier-fluid">
 
-    		<?php include("menu.php"); ?>
+    		  <?php include("menu.php"); ?>
 
     		<!-- Section #1 -->
 			<section id="home" data-speed="15" data-type="background">
@@ -20,6 +20,7 @@
 
 
     	</div>
+        
     	<div id="push"></div>
 
     </div>

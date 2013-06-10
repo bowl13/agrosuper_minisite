@@ -48,7 +48,7 @@ html, body{
     height:100%;
     z-index: 9999;
 	margin-top: -43px;
-	height:43px !important;
+	height:43px;
 	clear:both;
   	padding-top:20px;
   	background-color: #fb7220;
