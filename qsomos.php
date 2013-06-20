@@ -10,17 +10,32 @@
 
     		<!-- Section #1 -->
 			<section id="home" data-speed="15" data-type="background">
+
+
+                <article class="contenido">hola</article>
+
+
 			</section>
 			<!-- Section #2 -->
 			<section id="about" data-speed="9" data-type="background">
+
+
+                <article class="contenido">mundo</article>
+
+
 			</section>
 
 			<section id="nada" data-speed="20" data-type="background">
+
+
+                <article class="contenido">mundo mundo</article>
+
+
 			</section>
 
 
     	</div>
-        
+
     	<div id="push"></div>
 
     </div>
